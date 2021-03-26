@@ -1,0 +1,20 @@
+$primary: #f1d11c;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+.btn-delete-link {
+    color: $gray-400;
+    padding: 0;
+}
+.btn-delete-link:hover {
+    color: red;
+}
+
+.btn-edit{
+    color: $gray-400;
+    padding: 0;
+}
+
+.btn-edit:hover{
+    color:green;
+}
